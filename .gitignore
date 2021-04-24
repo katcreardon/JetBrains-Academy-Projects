@@ -1,0 +1,67 @@
+# Files common to all JetBrains Academy projects
+*/.gradle
+*/.idea
+*/gradle
+*/build.gradle
+*/course-info.yaml
+*/course-remote-info.yaml
+*/gradlew
+*/gradlew.bat
+*/settings.gradle
+*/*/lesson-info.yaml
+*/Problems/*/task-info.yaml
+*/Problems/*/task-remote-info.yaml
+*/Problems/*/out
+*/*/task/build
+*/*/task/test
+
+# Unique to project
+Bulls and Cows/Bulls and Cows/*
+!Bulls and Cows/Bulls and Cows/task
+Bulls and Cows/Bulls and Cows/task/*
+!Bulls and Cows/Bulls and Cows/task/src
+
+Cinema Room Manager/Cinema Room Manager/*
+!Cinema Room Manager/Cinema Room Manager/task
+Cinema Room Manager/Cinema Room Manager/task/*
+!Cinema Room Manager/Cinema Room Manager/task/src
+
+Coffee Machine/Coffee Machine/*
+!Coffee Machine/Coffee Machine/task
+Coffee Machine/Coffee Machine/task/*
+!Coffee Machine/Coffee Machine/task/src
+
+Encryption-Decryption/Encryption-Decryption/*
+!Encryption-Decryption/Encryption-Decryption/task
+Encryption-Decryption/Encryption-Decryption/task/*
+!Encryption-Decryption/Encryption-Decryption/task/src
+
+Error Correcting Encoder-Decoder/Error Correcting Encoder-Decoder/*
+!Error Correcting Encoder-Decoder/Error Correcting Encoder-Decoder/task
+Error Correcting Encoder-Decoder/Error Correcting Encoder-Decoder/task/*
+!Error Correcting Encoder-Decoder/Error Correcting Encoder-Decoder/task/src
+
+Numeral System Converter/Numeral System Converter/*
+!Numeral System Converter/Numeral System Converter/task
+Numeral System Converter/Numeral System Converter/task/*
+!Numeral System Converter/Numeral System Converter/task/src
+
+Readability Score/Readability Score/*
+!Readability Score/Readability Score/task
+Readability Score/Readability Score/task/*
+!Readability Score/Readability Score/task/src
+
+Simple Chatty Bot/Simple Chatty Bot/*
+!Simple Chatty Bot/Simple Chatty Bot/task
+Simple Chatty Bot/Simple Chatty Bot/task/*
+!Simple Chatty Bot/Simple Chatty Bot/task/src
+
+Tic-Tac-Toe with AI/Tic-Tac-Toe with AI/*
+!Tic-Tac-Toe with AI/Tic-Tac-Toe with AI/task
+Tic-Tac-Toe with AI/Tic-Tac-Toe with AI/task/*
+!Tic-Tac-Toe with AI/Tic-Tac-Toe with AI/task/src
+
+Tic-Tac-Toe/Tic-Tac-Toe/*
+!Tic-Tac-Toe/Tic-Tac-Toe/task
+Tic-Tac-Toe/Tic-Tac-Toe/task/*
+!Tic-Tac-Toe/Tic-Tac-Toe/task/src
