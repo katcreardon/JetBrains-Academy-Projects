@@ -26,6 +26,11 @@ Cinema Room Manager/Cinema Room Manager/*
 Cinema Room Manager/Cinema Room Manager/task/*
 !Cinema Room Manager/Cinema Room Manager/task/src
 
+Cinema Room REST Service/Cinema Room REST Service/*
+!Cinema Room REST Service/Cinema Room REST Service/task
+Cinema Room REST Service/Cinema Room REST Service/task/*
+!Cinema Room REST Service/Cinema Room REST Service/task/src
+
 Coffee Machine/Coffee Machine/*
 !Coffee Machine/Coffee Machine/task
 Coffee Machine/Coffee Machine/task/*
